@@ -17,3 +17,6 @@ p {
   border-radius: 10px;
   height: fit-content;
 }
+.bind:hover{
+  transform: translate3d();
+}
