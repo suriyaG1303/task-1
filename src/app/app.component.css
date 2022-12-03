@@ -1,3 +1,19 @@
 p {
+  height: fit-content;
   font-family: Lato;
+}
+.bind{
+    display: flex;
+    margin: 82px auto 32px;
+    padding: 0px 16px;
+    max-width: 500px;
+    flex-direction: column;
+    align-items: center;
+    color: #00000;
+    background-color:#236598;
+    border-radius: 25px;
+}
+.ai{
+  border-radius: 10px;
+  height: fit-content;
 }
